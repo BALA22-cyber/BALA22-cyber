@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning and doing projects on computer vision and deep learning 
-- 👯 I’m looking to collaborate on Computer Vision.
+- 👯 I’m looking to collaborate on Computer Vision and Sensor Fusion.
 - 🔭 Masters in Robotics from the University of Maryland.
 - 📫 How to reach me: gmail: balase22@umd.edu *  https://www.linkedin.com/in/balaji-selvakumar-b788b7186/...
 - 😄 Pronouns: He/Him
