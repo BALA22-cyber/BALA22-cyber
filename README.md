@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently working on creating Global Maps using Lio-SAM and Relocalizing using NDT based Algorithm  
+- 🌱 I’m currently working on creating PointNet algorithm for civil engineering use.
+- 🔭 I have experience in creating Global Maps using Lio-SAM and Relocalizing using NDT based Algorithms
 - 👯 I’m looking to collaborate on Computer Vision and Sensor Fusion.
 - 🔭 Masters in Robotics from the University of Maryland.
 - 📫 How to reach me: gmail: balase22@umd.edu *  https://www.linkedin.com/in/balaji-selvakumar-b788b7186/...
