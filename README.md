@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently working on creating PointNet algorithm for civil engineering use.
+- 🌱 I’m currently working on creating PointNet++ algorithm for buildings segmentation.
 - 🔭 I have experience in creating Global Maps using Lio-SAM and Relocalizing using NDT based Algorithms
 - 👯 I’m looking to collaborate on Computer Vision and Sensor Fusion.
 - 🔭 Masters in Robotics from the University of Maryland.
