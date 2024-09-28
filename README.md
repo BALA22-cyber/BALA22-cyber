@@ -28,8 +28,12 @@ Here are some ideas to get you started:
 
 ## 🏆 Contributions
 <!-- GitHub Contributions Graph -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BALA22-cyber&show_icons=true&theme=radical)
-
-<!--
 [![Balaji's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BALA22-cyber&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
--->
+
+
+
+## 🏆 GitHub Activity Graph
+![Balaji's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BALA22-cyber&theme=react-dark)
+
+## ✨ Animated Skills
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" style="animation: rotate 2s infinite;">
