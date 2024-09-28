@@ -21,3 +21,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: gmail: balase22@terpmail.umd.edu *  https://www.linkedin.com/in/balaji-selvakumar-b788b7186/...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Everyone should read Bro Code by Barney Stinson
+
+## 📈 GitHub Stats
+<!-- GitHub Contributions Activity -->
+![Balaji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BALA22-cyber&show_icons=true&theme=radical)
+
+## 🏆 Contributions
+<!-- GitHub Contributions Graph -->
+[![Balaji's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BALA22-cyber&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
