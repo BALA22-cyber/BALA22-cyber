@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About Me 🚀
-- 🌱 I’m currently working on creating PointNet++ algorithm for buildings segmentation.
+- 🌱 I’m currently working on creating PointNet++ algorithm for buildings segmentation, fine tuning the model and employing various data sampling techniques to solve class imbalance problem.
 - 🔭 I have experience in creating Global Maps using Lio-SAM and Relocalizing using NDT based Algorithms
 - 👯 I’m looking to collaborate on Computer Vision and Sensor Fusion.
 - 🔭 Masters in Robotics from the University of Maryland.
@@ -64,6 +64,7 @@ Here are some ideas to get you started:
 <!-- ![Bala's github stats](https://github-readme-stats.vercel.app/api?username=Bala22-cyber&show_icons=true&hide_border=true)&nbsp;&nbsp; -->
 
 <br />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bala22-cyber&" alt="bala22-cyber" /></p>
 
 <!--
 ## 🏆 Contributions
