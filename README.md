@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About Me 🚀
-- 🌱 I’m currently working on creating PointNet++ algorithm for buildings segmentation, fine tuning the model and employing various data sampling techniques to solve class imbalance problem.
+- 🌱 I’m currently working on sematic segmentation algorithms on point cloud building scans, fine tuning transformer based models for specific use cases and employing various data sampling techniques to solve class imbalance problem in the dataset.
 - 🔭 I have experience in creating Global Maps using Lio-SAM and Relocalizing using NDT based Algorithms
 - 👯 I’m looking to collaborate on Computer Vision and Sensor Fusion.
 - 🔭 Masters in Robotics from the University of Maryland.
